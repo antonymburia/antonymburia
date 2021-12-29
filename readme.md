@@ -46,12 +46,19 @@
 - [MACROLL LIMITED](https://macrolllimited.co.ke/)
 
 ---
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ❗️ [antonymburia/portfolio](https://github.com/antonymburia/Portfolio.git)
 2. ❗️[antonymburia/akan name generator](https://github.com/antonymburia/Akan-name-generator.git)
 <!--END_SECTION:activity-->
+
+
+
+  <summary>GitHub Stats</summary>
+
+  ![Antony Mburia's github stats](https://github-readme-stats.vercel.app/api?username=antonymburia&show_icons=true)
+
 
 
 
