@@ -1,7 +1,5 @@
 ### Hi there, I'm Toni - aka [antonymburia][linkedin]👋 
-[![github folow](https://img.shields.io/github/followers/antonymburia?style=social)](https://github.com/antonymburia)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/toni_254?color=1DA1F2&logo=twitter&style=)](https://twitter.com/intent/follow?screen_name=toni_254)
+[![github folow](https://img.shields.io/github/followers/antonymburia?style=social)](https://github.com/antonymburia) [![Twitter Follow](https://img.shields.io/twitter/follow/toni_254?color=1DA1F2&logo=twitter&style=)](https://twitter.com/intent/follow?screen_name=toni_254)
 
 ## I'm a Developer and Designer!!
 
@@ -37,6 +35,24 @@
 <br />
 
 ---
+
+
+
+### 📕 RECENT WORKS
+
+<!-- Recent works-->
+- [ACADEMIC WRITERS KE](https://academicwriterske.co.ke/)
+- [HEALTH AND SKIN CARE](https://healthandskincare.co.ke/)
+- [MACROLL LIMITED](https://macrolllimited.co.ke/)
+
+---
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. ❗️ [antonymburia/portfolio](https://github.com/antonymburia/Portfolio.git)
+2. ❗️[antonymburia/akan name generator](https://github.com/antonymburia/Akan-name-generator.git)
+<!--END_SECTION:activity-->
+
 
 
 [twitter]: https://twitter.com/toni_254
