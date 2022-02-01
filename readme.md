@@ -1,11 +1,11 @@
 ### Hi there, I'm Toni -  [Antony Gakono][linkedin]👋 
-[![github folow](https://img.shields.io/github/followers/antonymburia?style=social)](https://github.com/antonymburia) [![Twitter Follow](https://img.shields.io/twitter/follow/toni_254?color=1DA1F2&logo=twitter&style=)](https://twitter.com/intent/follow?screen_name=toni_254)
+[![github folow](https://img.shields.io/github/followers/antonymburia?style=social)](https://github.com/antonymburia) 
 
 ## I'm a Developer and Designer!!
 
 
-- 🔭
-- 🌱 currently learning everything 🤣
+
+- 🌱 currently learning everything
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
