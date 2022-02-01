@@ -1,4 +1,4 @@
-### Hi there, I'm Toni -  [Antony Gakono][linkedin 
+### Hi there, I'm Toni -  [Antony Gakono][linkedin]
 [![github folow](https://img.shields.io/github/followers/antonymburia?style=social)](https://github.com/antonymburia) 
 
 ## I'm a Developer and Designer!!
