@@ -6,7 +6,7 @@
 
 
 - 🌱 currently learning everything
--I’m looking to collaborate with other Developers
+- looking to collaborate with other Developers
 
 
 
