@@ -41,9 +41,8 @@
 ### 📕 RECENT WORKS
 
 <!-- Recent works-->
-- [GABOW COMPUTERS](https://gabowcomputers.com)
-- [HEALTH AND SKIN CARE](https://healthandskincare.co.ke/)
-- [MACROLL LIMITED](https://macrolllimited.co.ke/)
+- [Tech Pulse KE](https://techpulse.co.ke)
+
 
 ---
   <summary>: Recent GitHub Activity</summary>
